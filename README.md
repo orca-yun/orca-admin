@@ -14,31 +14,6 @@
 
 > 专注提供私域直播的开源的SAAS解决方案。
 
-## 项目组成
-
-- [运营管理端](https://github.com/orca-yun/orca-admin)
-
-- [直播助播端](https://github.com/orca-yun/assis-client)(联系+V: pink-hello 索取)
-
-- [直播主播端](https://github.com/orca-yun/anchor-client)(联系+V: pink-hello 索取)
-
-- [直播观看端](https://github.com/orca-yun/audience-client)(联系+V: pink-hello 索取)
-
-- [直播后端服务](https://github.com/orca-yun/living)
-
-- [基础服务-视频直播](联系+V: pink-hello 索取)
-
-- [基础服务-白板服务](联系+V: pink-hello 索取)
-
-- [基础服务-动弹服务](联系+V: pink-hello 索取)
-
-
-## Demo 地址 [服务器已失效， 需要的请 +v 索取最新的 demo 地址 ]
-- 运营端 [https://admin.orcacl.com](https://dash.linchengxuan.cn/) 【hwjy/test100】
-- 助理端 [https://admin.orcacl.com/app/assistant](https://dash.linchengxuan.cn/app/assistant)
-- 主播端 [https://admin.orcacl.com/app/anchor](https://dash.linchengxuan.cn/app/assistant)
-- 观看端 [http://d.kfc1.cn/c6e753cef47](http://t.linchengxuan.cn/a9e8a427bdbba)
-
 # 系统预览
 
 ## 运营端
